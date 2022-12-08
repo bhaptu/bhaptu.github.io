@@ -55,7 +55,7 @@ h2 {
   padding: 10px 0px 10px 10px;
 }
 
-img {
+img, iframe{
   width: 100%;
   height: 50vh;
   object-fit: cover;
@@ -161,6 +161,9 @@ footer div {
   }
   .description{
     font-size: 18px;
+  }
+  img, iframe{
+    height: 35vh;
   }
 }
 
